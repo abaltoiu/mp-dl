@@ -1,15 +1,15 @@
 If you use our work in your research, please cite as:
 
-F. Stoican and P. Irofti, “Aiding Dictionary Learning Through Multi-Parametric Sparse Representation,” Algorithms, vol. 11, no. 11, pp. 1–19, 2019
+F. Stoican and P. Irofti, “Aiding Dictionary Learning Through Multi-Parametric Sparse Representation,” Algorithms, vol. 12, no. 7, 131, 2019
 ```
 @article{SI19_mpdl,
   author = {Stoican, F. and Irofti, P.},
   title = {Aiding Dictionary Learning Through Multi-Parametric
          Sparse Representation},
   journal = {Algorithms},
-  volume = {11},
-  number = {11},
-  pages = {1--19},
+  volume = {12},
+  number = {7},
+  pages = {131},
   year = {2019},
   publisher = {Multidisciplinary Digital Publishing Institute},
 }
